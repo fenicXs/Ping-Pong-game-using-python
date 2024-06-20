@@ -17,7 +17,7 @@ This repository contains a classic Ping Pong game implemented in Python using th
 <h2>How to Play:</h2>
   
 1. Clone the repository to your local machine.
-2. Run ping_pong_game.py to start the game.
+2. Run main.py to start the game.
 3. Player 1 uses the 'W' and 'S' keys to move their paddle up and down.
 4. Player 2 uses the Up and Down arrow keys to move their paddle up and down.
 5. Hit the ball with your paddle to send it towards the opponent.
